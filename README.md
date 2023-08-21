@@ -88,5 +88,16 @@ Your contributions to this project are invaluable. To contribute:
 4. Push your changes to your fork.
 5. Submit a pull request to this repository.
 
+## Screen shots of App
+
+
+
+![add](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/1e9a03f0-13b2-4720-a7bc-00d68ffecb51)
+
+![edit](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/625d2845-be24-40cf-80c4-7910bcda1c27)
+
+![main page](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/a98e8e29-5645-4260-8e66-7d52450f4d96)
+
+
 NOTE : Edit and Delete methods are still in work in progress 
 
