@@ -1,3 +1,6 @@
+![ss2](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/896ea18a-4ade-4881-9fe8-074915cbf270)
+![ss1](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/282bc133-4958-4bf2-ae03-fe12af60fcfa)
+![ss6](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/0a3bb1fa-7b68-4354-b029-d95ae8d0a878)
 
 
 ---
@@ -97,6 +100,55 @@ Your contributions to this project are invaluable. To contribute:
 ![edit](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/625d2845-be24-40cf-80c4-7910bcda1c27)
 
 ![main page](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/a98e8e29-5645-4260-8e66-7d52450f4d96)
+
+
+#Screen shots of API 
+![Uploading ss5.png…]()
+![Uploading ss4.png…]()
+![ss3](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/5c84f740-2e13-46b4-a359-05f05c87d447)
+
+
+---
+
+# Project Requirements Assessment
+
+In this document, I assess each of the project requirements to determine whether they were adequately met during the development phase.
+
+## Requirements and Assessment
+
+1. **User Authentication:**
+   - Adequate: Will implement this in upcoming milestone
+   
+2. **Adding Products:**
+   - Adequate: Users can successfully add new products with proper details.
+
+3. **Viewing Products:**
+   - Adequate: The product list is displayed correctly, showing relevant details for each product.
+
+4. **Editing Products:**
+   - **Not Adequate:** The edit functionality is not yet functional. The application currently lacks the ability to update product details.
+
+   **Explanation:** Due to unforeseen technical challenges, the edit feature has not been implemented. It requires further development to ensure seamless modification of product information.
+
+5. **Deleting Products:**
+   - **Not Adequate:** The delete feature is not yet functional. Products cannot be removed from the list. An "AxiosError: Network Error" is encountered.
+
+   **Explanation:** During development, the delete feature encountered an "AxiosError: Network Error" when attempting to send a DELETE request to the server. This issue arises from a network connectivity problem between the front-end and the backend. The delete functionality currently fails to communicate with the server properly.
+
+## Planned Improvements
+
+1. **Editing Products:**
+   - I plan to prioritize the completion of the edit feature. I will address the technical challenges and implement a seamless way for users to modify product details.
+
+2. **Deleting Products:**
+   - The delete functionality will be a key focus for the next development cycle. I will investigate and resolve the "AxiosError: Network Error" issue to ensure proper communication between the front-end and the backend.
+
+## Conclusion
+
+While most project requirements have been met, the edit and delete functionalities require further development. I am committed to addressing these shortcomings and enhancing the application's usability.
+
+---
+
 
 
 NOTE : Edit and Delete methods are still in work in progress 
