@@ -2,7 +2,7 @@
 
 ---
 
-# Milestone 4 React App
+# Milestone 4 React App & Spring Boot App
 
 Welcome to the Milestone 4 React App! This application empowers you to efficiently manage and organize a diverse range of products. With its user-friendly interface and intuitive features, you can seamlessly add, view, edit, and delete products. This README provides comprehensive information on setting up, utilizing the app's features, understanding the technology stack, contributing, and licensing.
 
