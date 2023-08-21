@@ -1,70 +1,92 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+# Milestone 4 React App
 
-### `npm start`
+Welcome to the Milestone 4 React App! This application empowers you to efficiently manage and organize a diverse range of products. With its user-friendly interface and intuitive features, you can seamlessly add, view, edit, and delete products. This README provides comprehensive information on setting up, utilizing the app's features, understanding the technology stack, contributing, and licensing.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Embark on your journey with the Milestone 4 React App by following these steps:
 
-### `npm run build`
+1. Clone this repository to your local machine using the command `git clone https://github.com/yourusername/milestone4-react-app.git`.
+2. Ensure you have Node.js and npm installed. If not, download and install them from [nodejs.org](https://nodejs.org/).
+3. Open your terminal and navigate to the project directory using `cd milestone4-react-app`.
+4. Run `npm install` to install the necessary dependencies.
+5. Launch the development server by executing `npm start`.
+6. Access the app through your web browser at [http://localhost:3000](http://localhost:3000).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Adding Products
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Enhance your product management process with the following steps:
 
-### `npm run eject`
+1. Click the "Add Product" button located on the navigation bar.
+2. Input the product details, including its name, description, and price.
+3. Confirm your input by clicking the "Submit" button.
+4. Witness the newly added product integrated seamlessly into the product list.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Viewing Products
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The app's homepage showcases a dynamic table listing all products. Each product entry is equipped with essential information such as the product name, description, and price.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Editing Products
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Optimize your product details effortlessly:
 
-## Learn More
+1. Locate the "Edit" button corresponding to the product you intend to update.
+2. Modify any relevant fields such as the product name, description, or price.
+3. Validate your adjustments by clicking the "Submit" button.
+4. Observe the product list reflecting your modifications.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Deleting Products
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Fine-tune your product list by removing items as needed:
 
-### Code Splitting
+1. Identify the "Delete" button associated with the product you wish to eliminate.
+2. Confirm your decision by responding to the deletion prompt.
+3. Witness the seamless removal of the selected product from the list.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Dependencies
 
-### Analyzing the Bundle Size
+The Milestone 4 React App leverages several core dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- React: A JavaScript library for building user interfaces.
+- React Router DOM: A routing library for React applications.
+- Bootstrap: A front-end framework facilitating responsive design.
+- Axios: A promise-based HTTP client for API requests.
 
-### Making a Progressive Web App
+For the complete list of dependencies, consult the `package.json` file.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Usage
 
-### Advanced Configuration
+1. Once the development server is active, launch your preferred web browser and navigate to [http://localhost:3000](http://localhost:3000).
+2. Familiarize yourself with the app's diverse features by interacting with its intuitive user interface.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## API
 
-### Deployment
+The app's backend is built using Spring Boot, featuring the following essential API endpoints:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- `POST /product`: Facilitates the creation of new products.
+- `GET /products`: Retrieves a comprehensive list of all products.
+- `GET /product/{id}`: Fetches specific product details based on its unique ID.
+- `PUT /product/{id}`: Enables the modification of product details.
 
-### `npm run build` fails to minify
+For a comprehensive understanding of API implementation, refer to the backend's source code.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributing
+
+Your contributions to this project are invaluable. To contribute:
+
+1. Fork this repository on GitHub.
+2. Create a dedicated branch for your intended feature or bug fix.
+3. Implement your proposed changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request to this repository.
+
+NOTE : Edit and Delete methods are still in work in progress 
+
