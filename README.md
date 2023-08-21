@@ -1,6 +1,3 @@
-![ss2](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/896ea18a-4ade-4881-9fe8-074915cbf270)
-![ss1](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/282bc133-4958-4bf2-ae03-fe12af60fcfa)
-![ss6](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/0a3bb1fa-7b68-4354-b029-d95ae8d0a878)
 
 
 ---
