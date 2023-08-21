@@ -103,9 +103,6 @@ Your contributions to this project are invaluable. To contribute:
 
 
 #Screen shots of API 
-![Uploading ss5.png…]()
-![Uploading ss4.png…]()
-![ss3](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/5c84f740-2e13-46b4-a359-05f05c87d447)
 
 
 ---
