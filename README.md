@@ -99,8 +99,17 @@ Your contributions to this project are invaluable. To contribute:
 ![main page](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/a98e8e29-5645-4260-8e66-7d52450f4d96)
 
 
-#Screen shots of API 
+#Screen shots of API and Database
 
+
+
+![ss1](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/8dcdb795-38af-49a7-a190-5b6154462a74)
+![ss2](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/df3e42c9-01e7-4a6d-88be-8c74bffa89ba)
+![ss3](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/c3327ca3-b1fb-4908-a6f7-32de3f5590f1)
+![ss4](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/859975b7-669b-40c0-a378-4b6ceeefe2b3)
+
+![ss5](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/ea4bb555-7fd7-4551-a416-cd135192edf3)
+![ss6](https://github.com/vrijeshpatel1997/CST-452/assets/60836824/f5f80524-33d7-4112-a898-d2cc743bac0f)
 
 ---
 
