@@ -147,3 +147,6 @@ In this document, I assess each of the project requirements to determine whether
 ## Conclusion
 
 While most project requirements have been met, the edit and delete functionalities require further development. I am committed to addressing these shortcomings and enhancing the application's usability.
+
+##Loom Video part 1
+https://www.loom.com/share/ddea03272466418ca77cd6d52e39ffe7
