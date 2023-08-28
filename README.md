@@ -143,6 +143,42 @@ In this document, I assess each of the project requirements to determine whether
 
 2. **Deleting Products:**
    - The delete functionality will be a key focus for the next development cycle. I will investigate and resolve the "AxiosError: Network Error" issue to ensure proper communication between the front-end and the backend.
+  
+     ##Test Plan
+Objective: The objective of the testing is to verify that the controller class and exception class work correctly according to the project's requirements and design.
+
+Testing Framework: JUnit will be used as the testing framework to automate the execution of test cases.
+
+Testing Scope: The testing will primarily focus on the following components:
+
+Controller Class: This class handles the interaction between the user interface and the underlying logic. It is responsible for processing user inputs and triggering appropriate actions.
+
+Exception Class: This class defines custom exceptions that may be raised during the execution of the project. It is important to ensure that these exceptions are correctly thrown and handled.
+
+Test Cases
+Controller Class Test Cases:
+
+Test Case: Verify that the controller correctly processes valid user inputs.
+
+Test Steps:
+Provide valid input data to the controller.
+Call the relevant methods.
+Check for the expected output or behavior.
+Expected Result: The controller processes the input without errors and produces the expected output.
+Test Case: Verify that the controller handles invalid inputs gracefully.
+
+Test Steps:
+Provide invalid input data (e.g., null, empty, or incorrect format) to the controller.
+Call the relevant methods.
+Check for appropriate error handling and messages.
+Expected Result: The controller responds with meaningful error messages and handles invalid inputs without crashing.
+Exception Class Test Cases:
+
+Test Case: Verify that custom exceptions are correctly thrown.
+Test Steps:
+Trigger the conditions that should lead to a specific custom exception being raised.
+Use try-catch blocks to catch the expected exception.
+Expected Result: The custom exception is thrown when the specified conditions are met.
 
 ## Conclusion
 
